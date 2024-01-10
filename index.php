@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP Test</h1>
-		<p><b>Rebuildovano právě teď!!!!!!!!!</b></p>
+		<p><b>Nový upgrade!</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	
